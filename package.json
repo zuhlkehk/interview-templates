@@ -1,0 +1,22 @@
+{
+  "name": "interview-templates",
+  "version": "1.0.0",
+  "description": "This repository provides a set of hello world applications for various programming languages. Please clone the repository and check out the branch for the programming language you want to use. Make sure you can successfully run the test.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuhlkehk/interview-templates.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zuhlkehk/interview-templates/issues"
+  },
+  "homepage": "https://github.com/zuhlkehk/interview-templates#readme",
+  "dependencies": {
+    "mocha": "^6.0.2"
+  }
+}
