@@ -1,9 +1,10 @@
-const assert = require('assert')
+const assert = require('assert');
+const sayHello = require('../index');
 
-describe('Array', () => {
-  describe('#indexOf()', () => {
-    it('should return -1 when the value is not present', () => {
-      assert.equal([1, 2, 3].indexOf(4), -1)
+describe('index', () => {
+  describe('sayHello', () => {
+    it('should return "Hello"', () => {
+      assert.equal(sayHello(), "Hello")
     })
   })
 })

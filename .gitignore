@@ -78,3 +78,10 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# JetBrain
+.idea/
+
+# Gradle
+.gradle/
+build/
