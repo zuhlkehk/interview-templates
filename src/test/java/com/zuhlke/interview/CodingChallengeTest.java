@@ -1,11 +1,11 @@
 package com.zuhlke.interview;
 
-import org.junit.Assert;
-import org.junit.Test;
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
 
 public class CodingChallengeTest {
     @Test
-    public void test() {
-        Assert.assertEquals("Input string is 1", 1, Integer.parseInt("1"));
+    public void testSayHello() {
+        Assertions.assertEquals("Hello", new CodingChallenge().sayHello());
     }
 }
