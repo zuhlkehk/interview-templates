@@ -12,5 +12,3 @@ build/
 
 # Java
 *.class
-javacore.*.txt
-Snap.*.trc
