@@ -10,7 +10,8 @@ Make sure you can successfully run the test.
 * [Java](https://github.com/zuhlkehk/interview-templates/tree/java)
 * [JavaScript](https://github.com/zuhlkehk/interview-templates/tree/javascript)
 * [Kotlin](https://github.com/zuhlkehk/interview-templates/tree/kotlin)
-* [Scale](https://github.com/zuhlkehk/interview-templates/tree/scale)
+* [Python](https://github.com/zuhlkehk/interview-templates/tree/python)
+* [Scale](https://github.com/zuhlkehk/interview-templates/tree/scala)
 * [Swift](https://github.com/zuhlkehk/interview-templates/tree/swift)
 
 If the language you would like to use is not available, please let us know (or submit a PR).
