@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/zuhlkehk/interview-templates#readme",
   "dependencies": {
-    "mocha": "^8.1.2"
+    "mocha": "^8.1.3"
   }
 }
