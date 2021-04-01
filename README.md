@@ -4,6 +4,10 @@ This repository provides a set of hello world applications for various programmi
 Please clone the repository and check out the branch for the programming language you want to use.
 Make sure you can successfully run the test.
 
+```shell
+git clone https://github.com/zuhlkehk/interview-templates.git
+git checkout java # replace java with the branch for the corresponding language
+```
 * [C#](https://github.com/zuhlkehk/interview-templates/tree/csharp)
 * [Java](https://github.com/zuhlkehk/interview-templates/tree/java)
 * [JavaScript](https://github.com/zuhlkehk/interview-templates/tree/javascript)
